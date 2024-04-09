@@ -10,7 +10,7 @@ int main(){
         scanf("%d",&a[i]);
     }
     printf("Enter the kth element you want to find:");
-    scanf("%d",&k);
+    scanf("%d\n",&k);
     
     for(i=0;i<n-1;i++){
         for(j=0;j<n-i-1;j++){
@@ -33,6 +33,5 @@ int main(){
     printf("The maximum element in the array is %d\n",max);
     printf("The minimum element in the array is %d\n",min);
     return 0;
-
     
 }
