@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "e:/E-Drive/MCA/mca notes/DSA pro/problems/Arrays/pro4",
+      "program": "e:/E-Drive/MCA/mca notes/DSA pro/problems/Arrays/pro4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
