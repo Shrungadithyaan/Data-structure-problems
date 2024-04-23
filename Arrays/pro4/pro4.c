@@ -22,8 +22,7 @@ int main() {
     for (i = 0; i < countzero; i++)
         a[i] = 0;
 
-    x = countzero + countone;
-
+    x = countzero + countonne'
     for (i = countzero; i < x; i++)
         a[i] = 1;
 
